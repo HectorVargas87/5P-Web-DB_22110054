@@ -40,6 +40,7 @@ function Form() {
                     required
                 />
                 <button type="submit" className="btn btn-primary btn-block btn-large">Let me in.</button>
+                <button type="register" className="btn btn-primary btn-block btn-large">Registrar</button>
             </form>
         </div>
     );
